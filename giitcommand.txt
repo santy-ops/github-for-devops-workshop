@@ -22,3 +22,5 @@
  1420  git status
  1421  clear
  1422  history
+
+https://github.com/santy-ops/github-for-devops-workshop.git
