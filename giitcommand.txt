@@ -1,0 +1,24 @@
+ 1399  testing.py
+ 1400  vim testing.py
+ 1401  git status
+ 1402  git add testing.py
+ 1403  git status
+ 1404  git rm --cached testing.py
+ 1405  git status
+ 1406  git add testing.py
+ 1407  git status
+ 1408  clear
+ 1409  git commit -m "first commit"
+ 1410  git status
+ 1411  git tree
+ 1412  clear
+ 1413  git status
+ 1414  rm testing.py
+ 1415  ls
+ 1416  git status
+ 1417  git restore testing.py
+ 1418  ls
+ 1419  git stautus
+ 1420  git status
+ 1421  clear
+ 1422  history
